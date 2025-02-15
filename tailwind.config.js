@@ -30,7 +30,7 @@ module.exports = {
         },
         danger: {
           DEFAULT: '#F75555'
-        }
+        },
       }
     },
   },
